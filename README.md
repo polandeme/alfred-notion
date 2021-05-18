@@ -7,7 +7,7 @@ This is a Alfred wolkflow by [notion-api](https://developers.notion.com/).
 It's only beta version for some idea to you.
 
 # How to use
-1. Download this file and import to your Alfred
+1. Download this file [Add-Notes-To-Notion.alfredworkflow](https://github.com/polandeme/alfred-notion/blob/main/Add-Notes-To-Notion.alfredworkflow)and import to your Alfred
 2. Replace the your_app_token and your_page_block
 
 
